@@ -1,0 +1,6 @@
+{
+  "name": "နှလုံးသားရဲ့ အဖြေ — Answer From My Heart",
+  "description": "ကောင်လေးတစ်ယောက်ဆီ နှလုံးသားထဲက အဖြေလေးကို စာလွှာ၊ အမှတ်တရများနဲ့ လှပစွာ ပေးပို့ဖန်တီးနိုင်မယ့် Interactive Keepsake App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
